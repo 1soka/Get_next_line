@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="190" viewBox="0 0 240 190" role="img" aria-label="success 100/100">
+  <title>success 100/100</title>
+  <rect width="240" height="190" rx="3" fill="#5cb85c"/>
+  <path d="M66 50 L76 61 L94 39" fill="none" stroke="#ffffff" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="104" y="62" fill="#ffffff" font-family="'Futura PT', Futura, 'Century Gothic', 'Avenir Next', 'Segoe UI', Arial, sans-serif" font-size="23" letter-spacing="0.5">success</text>
+  <text x="39.0" y="148" fill="#ffffff" font-family="'Futura PT', Futura, 'Century Gothic', 'Avenir Next', 'Segoe UI', Arial, sans-serif" font-size="76" font-weight="300">100</text>
+  <text x="169.8" y="148" fill="#ffffff" font-family="'Futura PT', Futura, 'Century Gothic', 'Avenir Next', 'Segoe UI', Arial, sans-serif" font-size="16" font-weight="300">/100</text>
+</svg>
