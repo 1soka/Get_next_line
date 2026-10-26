@@ -121,8 +121,6 @@ get_next_line/
 
 A big thank you to everyone at 42 Angoulême who tested my function with every `BUFFER_SIZE` they could think of, from 1 to 10 million, and who helped me hunt down the last leaks. This project finally made static variables and `read()` click for me. I came out of it **boosted**, and I really enjoyed it. 💗
 
-After the **Hunter Exam** (Piscine) and learning **Nen** (Libft), get_next_line feels like **Greed Island** 🃏: you collect your cards one at a time, and your Book keeps them safe between two sessions, exactly like the static stash keeps the leftovers between two calls. Next project, here I come! 🚀
-
 <div align="center">
 
 **Made with ☕, 💗 and a lot of segfaults by [1soka](https://github.com/1soka)**
