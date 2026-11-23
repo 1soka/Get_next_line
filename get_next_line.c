@@ -73,7 +73,6 @@ char	*get_next_line(int fd)
 		return (NULL);
 	}
 	limit = ft_strchr_stack(stack, '\n');
-	limit = ft_strchr_stack(stack, '\n');
 	if (limit == 0)
 		limit = ft_strlen(stack);
 	result = malloc(limit + 1);
